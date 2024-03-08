@@ -23,7 +23,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=atologistparth&show_icons=true&locale=en" alt="atologistparth" /></p>
-<p> <img aligh="right" src="https://i.gifer.com/origin/1d/1dc2e92177c43cac5bd2f59de5381a15_w200.gif" width="100%" /></p>
+<p> <img aligh="right" src="https://i.gifer.com/origin/1d/1dc2e92177c43cac5bd2f59de5381a15_w200.gif" width="25%" /></p>
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atologistparth&show_icons=true&locale=en&layout=compact" alt="atologistparth" /></p>-->
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=atologistparth&" alt="atologistparth" /></p>
 <br>
