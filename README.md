@@ -14,20 +14,20 @@
         <p>
             My toolkit includes 
             <ul>
-             <li><>HTML</li>
+             <li></>HTML</li>
              <li>🖼️CSS</li>
-             <li>U+F1A8 BOOTSTRAP</li>
-             <li>JAVASCRIPT</li>
+             <li> ₿ BOOTSTRAP</li>
+             <li> ｡🇯‌🇸‌ JAVASCRIPT</li>
              <li>🐘 PHP</li>
-             <li>MYSQL</li>
+             <li>🌐 MYSQL</li>
             </ul>
               But I don't stop there; I'm always on the lookout for the latest technologies to enhance my skill set. <br>
      <hr>
               Currently, I'm delving into
             <ul>
-             <li>REACT.JS</li>
+             <li>⚛REACT.JS</li>
              <li>NEXT.JS</li>
-             <li>NODE.JS</li>
+             <li>🇳 NODE.JS</li>
              <li>WORDPRESS</li>
             </ul>
              Eager to expand my repertoire and create even more innovative projects. 🌐✨
