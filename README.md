@@ -2,8 +2,9 @@
 <!--<h1 align="center">Hi 👋, I'm Parth Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3> -->
  <header>
-        <h1>Hello, I'm Parth Sharma - Web Developer Extraordinaire! 👨‍💻</h1>
-    </header>
+        <h1>Hello, I'm Parth Sharma </h1>
+         <h1 >Web Developer Extraordinaire! 👨‍💻</h1>
+    </header> 
     <section>
         <p>
             I thrive in the world of web development, bringing ideas to life one line of code at a time. Currently employed at Atologist Infotech, I have 1.5 years of hands-on experience in crafting dynamic and user-friendly web solutions.
