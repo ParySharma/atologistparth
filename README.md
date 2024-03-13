@@ -22,8 +22,8 @@
              <li>🐘 PHP</li>
              <li>🌐 MYSQL</li>
             </ul>
-              But I don't stop there; I'm always on the lookout for the latest technologies to enhance my skill set. <br>
      <hr>
+              But I don't stop there; I'm always on the lookout for the latest technologies to enhance my skill set. <br>
               Currently, I'm delving into
             <ul>
              <li>⚛REACT.JS</li>
