@@ -1,6 +1,6 @@
 <img src="https://visme.co/blog/wp-content/uploads/most-unique-reports-header.gif" width="100%">
-<h1 align="center">Hi 👋, I'm Parth Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!--<h1 align="center">Hi 👋, I'm Parth Sharma</h1>
+<h3 align="center">A passionate frontend developer from India</h3> -->
  <header>
         <h1>Hello, I'm Parth Sharma - Web Developer Extraordinaire! 👨‍💻</h1>
     </header>
