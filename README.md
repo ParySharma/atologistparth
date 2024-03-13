@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3> -->
  <header>
         <h1>Hello, I'm Parth Sharma </h1>
-         <h1 >Web Developer Extraordinaire! 👨‍💻</h1>
+         <h3>Web Developer Extraordinaire! 👨‍💻</h3>
     </header> 
     <section>
         <p>
