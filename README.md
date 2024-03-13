@@ -14,13 +14,15 @@
         <p>
             My toolkit includes 
             <ul>
-             <li>HTML</li>
-             <li>CSS</li>
-             <li>BOOTSTRAP</li>
+             <li><>HTML</li>
+             <li>🖼️CSS</li>
+             <li>&#xF1A8 BOOTSTRAP</li>
              <li>JAVASCRIPT</li>
+             <li>🐘 PHP</li>
              <li>MYSQL</li>
             </ul>
               But I don't stop there; I'm always on the lookout for the latest technologies to enhance my skill set. <br>
+     <hr>
               Currently, I'm delving into
             <ul>
              <li>REACT.JS</li>
@@ -28,7 +30,7 @@
              <li>NODE.JS</li>
              <li>WORDPRESS</li>
             </ul>
-              eager to expand my repertoire and create even more innovative projects. 🌐✨
+             Eager to expand my repertoire and create even more innovative projects. 🌐✨
         </p>
         <p>
             Beyond coding, I'm an avid gamer 🎮, anime enthusiast 🍜, and video creator 🎥.
@@ -41,8 +43,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atologistparth&label=Profile%20views&color=0e75b6&style=flat" alt="atologistparth" /> </p>
 
 - 🔭 I’m currently working on [ZomoHealth](https://zomohealth.com/)
-
-- 🌱 I’m currently learning **ReactJs, NextJs, NodeJs**
 
 - 📫 How to reach me **parth9512158@gmail.com**
 
