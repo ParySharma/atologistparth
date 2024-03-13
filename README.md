@@ -25,6 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=atologistparth&show_icons=true&locale=en" alt="atologistparth" /></p>
 <p align="center"> <img src="https://i.gifer.com/origin/1d/1dc2e92177c43cac5bd2f59de5381a15_w200.gif" width="25%" /></p>
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atologistparth&show_icons=true&locale=en&layout=compact" alt="atologistparth" /></p>-->
+<p align="left"> <img src="https://i.pinimg.com/originals/e1/02/22/e1022271294d7c9454e61569133b2d92.gif" width="25%" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=atologistparth&" alt="atologistparth" /></p>
 <br>
 
