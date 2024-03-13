@@ -1,6 +1,23 @@
 <img src="https://visme.co/blog/wp-content/uploads/most-unique-reports-header.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Parth Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+ <header>
+        <h1>Hello, I'm Parth Sharma - Web Developer Extraordinaire! 👨‍💻</h1>
+    </header>
+    <section>
+        <p>
+            I thrive in the world of web development, bringing ideas to life one line of code at a time. Currently employed at Atologist Infotech, I have 1.5 years of hands-on experience in crafting dynamic and user-friendly web solutions.
+        </p>
+        <p>
+            My toolkit includes PHP, HTML, CSS, JavaScript, jQuery, and Bootstrap. But I don't stop there; I'm always on the lookout for the latest technologies to enhance my skill set. Currently, I'm delving into React.js, Node.js, Next.js, WordPress, and MySQL, eager to expand my repertoire and create even more innovative projects. 🌐✨
+        </p>
+        <p>
+            Beyond coding, I'm an avid gamer 🎮, anime enthusiast 🍜, and video creator 🎥.
+        </p>
+        <p>
+            Let's collaborate and bring your web projects to life! 🚀
+        </p>
+    </section>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atologistparth&label=Profile%20views&color=0e75b6&style=flat" alt="atologistparth" /> </p>
 
