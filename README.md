@@ -7,10 +7,28 @@
     </header> 
     <section>
         <p>
-            I thrive in the world of web development, bringing ideas to life one line of code at a time. Currently employed at Atologist Infotech, I have 1.5 years of hands-on experience in crafting dynamic and user-friendly web solutions.
+            I thrive in the world of web development, bringing ideas to life one line of code at a time. <br>
+            Currently employed at <b>Atologist Infotech</b> <br>
+            I have 1.5 years of hands-on experience in crafting dynamic and user-friendly web solutions.
         </p>
         <p>
-            My toolkit includes PHP, HTML, CSS, JavaScript, jQuery, and Bootstrap. But I don't stop there; I'm always on the lookout for the latest technologies to enhance my skill set. Currently, I'm delving into React.js, Node.js, Next.js, WordPress, and MySQL, eager to expand my repertoire and create even more innovative projects. 🌐✨
+            My toolkit includes 
+            <ul>
+             <li>HTML</li>
+             <li>CSS</li>
+             <li>BOOTSTRAP</li>
+             <li>JAVASCRIPT</li>
+             <li>MYSQL</li>
+            </ul>
+              But I don't stop there; I'm always on the lookout for the latest technologies to enhance my skill set. <br>
+              Currently, I'm delving into
+            <ul>
+             <li>REACT.JS</li>
+             <li>NEXT.JS</li>
+             <li>NODE.JS</li>
+             <li>WORDPRESS</li>
+            </ul>
+              eager to expand my repertoire and create even more innovative projects. 🌐✨
         </p>
         <p>
             Beyond coding, I'm an avid gamer 🎮, anime enthusiast 🍜, and video creator 🎥.
