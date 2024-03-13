@@ -16,7 +16,7 @@
             <ul>
              <li><>HTML</li>
              <li>🖼️CSS</li>
-             <li>&#xF1A8 BOOTSTRAP</li>
+             <li>U+F1A8 BOOTSTRAP</li>
              <li>JAVASCRIPT</li>
              <li>🐘 PHP</li>
              <li>MYSQL</li>
