@@ -25,7 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=atologistparth&show_icons=true&locale=en" alt="atologistparth" /></p>
 <p align="center"> <img src="https://i.gifer.com/origin/1d/1dc2e92177c43cac5bd2f59de5381a15_w200.gif" width="25%" /></p>
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atologistparth&show_icons=true&locale=en&layout=compact" alt="atologistparth" /></p>-->
-<p> <img src="https://i.pinimg.com/originals/e1/02/22/e1022271294d7c9454e61569133b2d92.gif" width="25%" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=atologistparth&" alt="atologistparth" /></p>
+<p align="center"> <img src="https://i.pinimg.com/originals/e1/02/22/e1022271294d7c9454e61569133b2d92.gif" width="25%" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=atologistparth&" alt="atologistparth" /></p>
 <br>
 
 <img src="https://media4.giphy.com/media/KdrBO6kCgqKbJP6cr9/giphy.gif?cid=6c09b952qw6zd7wzhyffxbxyeyu9cxqbkr0ds1pifl778x36&ep=v1_stickers_related&rid=giphy.gif" style="margin-top: -36px;max-width: 100%;display: inline-block;height: 73px;width: 968px;border-radius: 20px;" />
