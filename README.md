@@ -1,6 +1,7 @@
 <img src="https://visme.co/blog/wp-content/uploads/most-unique-reports-header.gif" width="100%">
 <!--<h1 align="center">Hi 👋, I'm Parth Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atologistparth&label=Profile%20views&color=0e75b6&style=flat" alt="atologistparth" /> </p>
  <header>
         <h1>Hello, I'm Parth Sharma </h1>
          <h3>Web Developer Extraordinaire! 👨‍💻</h3>
@@ -39,8 +40,6 @@
             Let's collaborate and bring your web projects to life! 🚀
         </p>
     </section>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atologistparth&label=Profile%20views&color=0e75b6&style=flat" alt="atologistparth" /> </p>
 
 - 🔭 I’m currently working on [ZomoHealth](https://zomohealth.com/)
 
