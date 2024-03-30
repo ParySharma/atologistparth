@@ -9,7 +9,7 @@
     <section>
         <p>
             I thrive in the world of web development, bringing ideas to life one line of code at a time. <br>
-            Currently employed at <b>Atologist Infotech</b> <br>
+            Currently employed at <b>Atologist Infotechaaaaa</b> <br>
             I have 1.5 years of hands-on experience in crafting dynamic and user-friendly web solutions.
         </p>
         <p>
